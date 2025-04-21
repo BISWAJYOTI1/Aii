@@ -1,0 +1,36 @@
+2025-04-04 22:04:40.672669 - Condition suspected: anxiety
+2025-04-04 22:04:40.673630 - User description: yes
+2025-04-04 22:04:40.674074 - AI preliminary diagnosis: No. The response is insufficient to determine if they are experiencing symptoms of anxiety.
+2025-04-04 22:04:57.780046 - Condition suspected: anxiety
+2025-04-04 22:04:57.780501 - User description: 7 days
+2025-04-04 22:04:57.780731 - AI preliminary diagnosis: No. The response is too short and lacks context to determine anxiety.
+2025-04-04 22:05:15.337339 - Condition suspected: anxiety
+2025-04-04 22:05:15.337807 - User description: yes
+2025-04-04 22:05:15.338699 - AI preliminary diagnosis: No. The response is insufficient to determine if they are experiencing symptoms of anxiety.
+2025-04-04 22:05:19.349695 - Condition suspected: anxiety
+2025-04-04 22:05:19.350674 - User description: yes
+2025-04-04 22:05:19.351537 - AI preliminary diagnosis: No. The response is insufficient to determine if they are experiencing symptoms of anxiety.
+2025-04-04 22:05:23.228565 - Condition suspected: anxiety
+2025-04-04 22:05:23.228926 - User description: yes
+2025-04-04 22:05:23.229242 - AI preliminary diagnosis: No. The response is insufficient to determine if they are experiencing symptoms of anxiety.
+2025-04-04 22:05:27.589151 - Condition suspected: anxiety
+2025-04-04 22:05:27.589635 - User description: yes
+2025-04-04 22:05:27.590031 - AI preliminary diagnosis: No. The response is insufficient to determine if they are experiencing symptoms of anxiety.
+2025-04-04 22:07:15.137698 - Condition suspected: ptsd
+2025-04-04 22:07:15.138567 - User description: yes
+2025-04-04 22:07:15.139819 - AI preliminary diagnosis: No. A single "yes" provides no information about potential PTSD symptoms.
+2025-04-04 22:07:32.177516 - Condition suspected: ptsd
+2025-04-04 22:07:32.178144 - User description: past two weeks
+2025-04-04 22:07:32.178611 - AI preliminary diagnosis: No. "Past two weeks" provides insufficient information to determine if the user is experiencing PTSD symptoms.
+2025-04-04 22:07:48.430651 - Condition suspected: ptsd
+2025-04-04 22:07:48.431748 - User description: yes
+2025-04-04 22:07:48.432938 - AI preliminary diagnosis: No. A single "yes" provides no information about potential PTSD symptoms.
+2025-04-04 22:07:59.519789 - Condition suspected: ptsd
+2025-04-04 22:07:59.520444 - User description: n o
+2025-04-04 22:07:59.521044 - AI preliminary diagnosis: No. This response provides insufficient information to determine if the user is experiencing PTSD symptoms.
+2025-04-04 22:08:04.801433 - Condition suspected: ptsd
+2025-04-04 22:08:04.802322 - User description: yes
+2025-04-04 22:08:04.803044 - AI preliminary diagnosis: No. A single "yes" provides no information about potential PTSD symptoms.
+2025-04-04 22:08:10.130449 - Condition suspected: ptsd
+2025-04-04 22:08:10.131123 - User description: no
+2025-04-04 22:08:10.131798 - AI preliminary diagnosis: No. The user provided insufficient information to determine if they are experiencing PTSD symptoms.
